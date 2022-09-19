@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace StackOverflowPost
+﻿namespace StackOverflowPost
 {
     public class StackOverflowPost
     {
